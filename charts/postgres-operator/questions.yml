@@ -15,8 +15,8 @@ questions:
   label: Docker Repository
   group: "Image"
 - variable: image.tag
-  default: "v1.11.0"
-  description: "Specifies the tag of the Docker image to be used for the Postgres Operator. The default value is v1.11.0."
+  default: "v1.12.2"
+  description: "Specifies the tag of the Docker image to be used for the Postgres Operator. The default value is v1.12.2."
   type: string
   label: Docker Image Tag
   group: "Image"
